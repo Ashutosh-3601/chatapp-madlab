@@ -1,11 +1,10 @@
 package com.madlab.chatapp.activities;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.madlab.chatapp.R;
+import androidx.appcompat.app.AppCompatActivity;
+
 import com.madlab.chatapp.databinding.ActivitySignInBinding;
 
 public class SignInActivity extends AppCompatActivity {
@@ -24,4 +23,5 @@ public class SignInActivity extends AppCompatActivity {
         binding.textCreateNewAccount.setOnClickListener(v ->
                 startActivity(new Intent(getApplicationContext(), SignUpActivity.class)));
     }
+
 }

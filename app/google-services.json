@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873168679633",
+    "project_id": "chat-app-5dca1",
+    "storage_bucket": "chat-app-5dca1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873168679633:android:91cd2c3c153891f1708bf0",
+        "android_client_info": {
+          "package_name": "com.madlab.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873168679633-tuuoh572g2gecgb65nnqu68h8bfvvut8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBIoSSs2T7LHdYR-ks3g3Wye1O_bm9j8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873168679633-tuuoh572g2gecgb65nnqu68h8bfvvut8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
